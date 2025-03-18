@@ -1,0 +1,6 @@
+my_terrain_correct2.txt     
+my_programme2.txt    
+10              
+N               
+2 3              
+N                
